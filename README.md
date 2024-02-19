@@ -1,6 +1,8 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To-do: 
+ - Different ways to sort the songs (artist, genre, album)
+ - Searching for a song 
 
 ## Folder Structure
 
